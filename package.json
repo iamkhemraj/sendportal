@@ -1,0 +1,14 @@
+{
+  "name": "sendportal",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><img src=\"https://sendportal.io/img/sendportal.png\" width=\"250\"></p>",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
